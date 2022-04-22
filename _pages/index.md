@@ -22,8 +22,8 @@ permalink: /
 
 ## 質問・お問合せ・F＆Q
 質問やお問合せなどがあればこちらまでご連絡ください。  
-[twitter](https://twitter.com/)![image](/220422_GitHubPages/assets/images/logo-150.png)    
-[Instagram](https://www.instagram.com)  
+[twitter](https://twitter.com/)  ![image](/220422_GitHubPages/assets/images/logo-150.png)    
+[Instagram](https://www.instagram.com)  ![image2](/220422_GitHubPages/assets/images/logo-150.png)  
 [質問箱](https://peing.net/ja/)  
 
 ---
