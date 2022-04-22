@@ -22,7 +22,7 @@ permalink: /
 
 ## 質問・お問合せ・F＆Q
 質問やお問合せなどがあればこちらまでご連絡ください。  
-[twitter](https://twitter.com/)  
+[twitter](https://twitter.com/)![image](/220422_GitHubPages/assets/images/logo-150.png)    
 [Instagram](https://www.instagram.com)  
 [質問箱](https://peing.net/ja/)  
 
