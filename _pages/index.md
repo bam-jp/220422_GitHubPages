@@ -21,9 +21,9 @@ permalink: /
 ありません。しかし勉強するために書籍を購入したり、イベントの発表会場までの交通費や宿泊費、参加費は自腹です。
 
 ## 質問・お問合せ・F＆Q
-質問やお問合せなどがあればこちらまでご連絡ください。
-[twitter](https://twitter.com/)
-[Instagram](https://www.instagram.com)
-[質問箱](https://peing.net/ja/)
+質問やお問合せなどがあればこちらまでご連絡ください。  
+[twitter](https://twitter.com/)  
+[Instagram](https://www.instagram.com)  
+[質問箱](https://peing.net/ja/)  
 
 ---
